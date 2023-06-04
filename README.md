@@ -22,7 +22,8 @@ Therefore for the technical test I have taken the following approach to demonstr
 -   A simple, single page frontend app using Vue.js to display the classes for a teacher, as well as the students in that class.
 -   An API using PHP and laravel to serve data to the frontend app, this API will make the relevant calls to the Wonde API to get and serve data to the front end.
 -   There is no data in the sample school for lessons to tie class lessons to specific dates, and from that figure out which classes a teacher has on a given date (and week), so I have instead opted to just show the classes that the teacher currently has, and the employees in each class.
-
+ 
+![No Lessons](https://github.com/Scott-Mahoney/SecureSchoolsTechnicalExercise/blob/main/Images/No%20Lessons.png?raw=true)
 
 ## Setup
 
