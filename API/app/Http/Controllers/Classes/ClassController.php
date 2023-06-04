@@ -16,7 +16,7 @@ class ClassController extends Controller
      *
      * @param Request $request The request object
      * @param string $school_id The ID of the school to get class details for
-     * @param string $school_id The ID of the class to get details for
+     * @param string $class_id The ID of the class to get details for
      *
      * @return JsonResponse|throwable
      */
