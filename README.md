@@ -19,5 +19,6 @@ I would expect in the context of the user story a couple of things are true to k
 
 However following the above assumptions directly wouldn't fit much in to the emphasis on PHP and Laravel in the job listing and my chat with Maddie about what the role entails.
 Therefore for the technical test I intend to take the following approach to demonstrate skills required in the job listing:
--   A simple, single page frontend app using Vue.js to display the classes for the week for a teacher, as well as the students in that class.
+-   A simple, single page frontend app using Vue.js to display the classes for a teacher, as well as the students in that class.
 -   An API using PHP and laravel to serve data to the frontend app, this API will make the relevant calls to the Wonde API to get and serve data to the front end.
+-   There is no data in the sample school for lessons to tie class lessons to specific dates, and from that figure out which classes a teacher has on a given date, so I have
